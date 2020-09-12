@@ -1,4 +1,4 @@
-# stackbuilders
+# Peak&PLate
 Script for peak and plate prediction
 
 For testing, edit predictor.php and easy change the parameters as you require.
